@@ -1,14 +1,9 @@
 
 p2-image-classification/cifar*
 p2-image-classification/preprocess*
+p2-image-classification/checkpoint
+p2-image-classification/image_classification.data-*
+p2-image-classification/image_classification.index
+p2-image-classification/image_classification.meta
 
-*checkpoint
-*cifar-10-python.tar.gz
-*cifar-10-batches-py
-*image_classification.data-*
-*image_classification.index
-*image_classification.meta
-*preprocess_batch_*.p
-*preprocess_training.p
-*preprocess_validation.p
 
